@@ -20,4 +20,4 @@ The Application is written to generate a password based on the user's options st
 [Password Generator]()
 
 ## Final Results
-![Password Generator result]()
+![Password Generator result](https://github.com/Kjhohura24/passwordgenerator/blob/main/assets/Password%20generator%20%205.png)
