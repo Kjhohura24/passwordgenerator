@@ -16,8 +16,8 @@ function getPasswordOptions() {
   var length = parseInt(
     prompt('How many characters would you like the password to contain?')
   );
-  while (isNaN(length) || length <10 || length > 64) {
-    alert('Password length needs to be a number between 10 and 64');
+  while (isNaN(length) || length <9 || length > 70) {
+    alert('Password length needs to be a number between 10 and 70');
     length = parseInt(
       prompt('How many characters would you like the password to contain?')
     );
