@@ -17,7 +17,7 @@ The function prompts the user to confirm if they want special characters, number
 The Application is written to generate a password based on the user's options stored in the first function. 
 
 ## Link to deployed Application
-[Password Generator]()
+[Password Generator](https://kjhohura24.github.io/passwordgenerator/)
 
 ## Final Results
 ![Password Generator result](https://github.com/Kjhohura24/passwordgenerator/blob/main/assets/Password%20generator%20%205.png)
